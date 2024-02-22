@@ -1,5 +1,3 @@
-'use client'
-
 import { useState } from 'react'
 import { AccordionContext } from './context'
 import { AccordionPanel } from './Panel'

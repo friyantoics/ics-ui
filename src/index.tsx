@@ -1,8 +1,0 @@
-export { Accordion, AccordionPanel } from './components/ui/Accordion'
-export { Button } from './components/ui/Button'
-export { Input } from './components/ui/Input'
-export { Spinner } from './components/ui/Spinner'
-export { Switch } from './components/ui/Switch'
-export { Tab, TabHead, TabHeadItem, TabBody, TabBodyItem } from './components/ui/Tab'
-export { Table, TableHead, TableHeadRow, TableHeadCell, TableBody, TableBodyRow, TableBodyCell } from './components/ui/Table'
-export { Textarea } from './components/ui/Textarea'

@@ -1,5 +1,3 @@
-'use client'
-
 import { twMerge } from 'tailwind-merge'
 import { TabProvider, useTabContext } from './hooks'
 

@@ -1,5 +1,3 @@
-'use client'
-
 import { useContext } from 'react'
 import { AccordionContext } from './context'
 
